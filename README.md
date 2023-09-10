@@ -5,5 +5,6 @@ Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta
 Jawab:
 
 Jelaskan mengapa kita menggunakan virtual environment? Apakah kita tetap dapat membuat aplikasi web berbasis Django tanpa menggunakan virtual environment?
+Jawab:
 
 Jelaskan apakah itu MVC, MVT, MVVM dan perbedaan dari ketiganya.
